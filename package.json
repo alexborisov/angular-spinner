@@ -1,0 +1,35 @@
+{
+  "name": "aangular-spinner",
+  "version": "0.1.0",
+  "description": "AngularJS Number Spinner Directive",
+  "main": "dist/angular-spinner.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexborisov/angular-spinner.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "spinner",
+    "number",
+    "input"
+  ],
+  "author": "Alex Borisov <alex@alexborisov.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexborisov/angular-spinner/issues"
+  },
+  "homepage": "https://github.com/alexborisov/angular-spinner",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-uglify": "^0.8.0",
+    "load-grunt-config": "^0.16.0",
+    "time-grunt": "^1.1.0"
+  }
+}

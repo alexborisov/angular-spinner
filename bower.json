@@ -1,0 +1,25 @@
+{
+  "name": "angular-spinner",
+  "version": "0.1.0",
+  "authors": [
+    "Alex Borisov <alex@alexborisov.org>"
+  ],
+  "description": "AngularJS Number Spinner Directive",
+  "main": "dist/angular-spinner.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "number",
+    "spinner",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alexborisov/angular-spinner",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

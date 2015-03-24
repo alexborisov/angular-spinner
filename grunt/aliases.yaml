@@ -1,0 +1,8 @@
+default:
+  - 'build'
+build:
+  - 'clean'
+  - 'concat:build'
+  - 'uglify:build'
+dev:
+  - 'concat:dev'
